@@ -2,9 +2,13 @@
 ## Ürün ile ilgili bilgiler
 ### Takım
 İncinaz İnci: Product Owner/ Scrum Master
+
 Rasim Seçkim: Team Member/Artist
+
 Sinan Kerim Canan: Team Member/Artist
+
 Melis İliderci: Team Member/Developer
+
 Kaan Avcı: Scrum Master
 ## Oyun Açıklaması
 Charlie'nin Çikolata Fabrikasında bir gezinitye çıkan Veruca Salt çeşitli engellerden atlayarak oyuna devam etmeye çalışıyor.
