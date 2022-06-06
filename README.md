@@ -1,7 +1,7 @@
 # takim_12
 ## Ürün ile ilgili bilgiler
 ### Takım
-İncinaz İnci: Product Owner
+İncinaz İnci: Product Owner/ Scrum Master
 Rasim Seçkim: Team Member/Artist
 Sinan Kerim Canan: Team Member/Artist
 Melis İliderci: Team Member/Developer
