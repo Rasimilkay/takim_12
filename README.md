@@ -24,4 +24,15 @@ Charlie'nin Çikolata Fabrikasında bir gezinitye çıkan Veruca Salt çeşitli 
 ## Sprint Notları:
 Scrum Master'ımız yoğum olduğu için o hariç toplanıldı. Github linkimiz belirtilmediği fark edilip yeni bir Github linki açıldı unity ile eşleştirildi. Danışmana gönderilmek üzere hazır. Süreçteki tüm aşamalar Trello'ya kaydedilmiiştir.
 ## Daily Scrum:
-Daily scrum toplantılarımız Discord üzerinden gerçekleştirilmiştir.
+Daily scrum toplantılarım![idle](https://user-images.githubusercontent.com/104462229/172200806-6a9e8a2b-1b47-41ce-86e2-e8bf11e78bb2.png)
+ız Discord üzerinden gerçekleştirilmiştir.
+### Tasarımı tamamlanmış karakter tasarımları:
+![yurume](https://user-images.githubusercontent.com/104462229/172200801-93ef9c8d-9653-40d6-b883-b38a86a12faa.png)
+![ziplama](https://user-images.githubusercontent.com/104462229/172200815-33e04e35-f910-4715-a475-4b8263000df7.png)
+![image](https://user-images.githubusercontent.com/104462229/172200921-49100abd-cdb8-49be-b2d5-2fffbb088cbf.png)
+### Tasarımı devam eden seviye tasarımlarımız:
+![image](https://user-images.githubusercontent.com/104462229/172201173-77cce8cc-d943-4bcc-ad45-8b23f5caf547.png)
+![image](https://user-images.githubusercontent.com/104462229/172201244-5315233f-a74c-4e66-be83-9d0ca2eea781.png)
+### Discord chat screenshotları:
+![Ekran görüntüsü 2022-06-06 191816](https://user-images.githubusercontent.com/104462229/172201950-196e4f52-6660-46f5-8c08-8d6404444a73.jpg)
+![Ekran görüntüsü 2022-06-06 191618](https://user-images.githubusercontent.com/104462229/172201973-016a80d7-a61e-4fe4-b8d5-10290397fe37.jpg)
