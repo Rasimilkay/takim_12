@@ -29,8 +29,9 @@ Charlie'nin Çikolata Fabrikasında bir gezinitye çıkan Veruca Salt çeşitli 
 Scrum Master'ımız yoğum olduğu için o hariç toplanıldı. Github linkimiz belirtilmediği fark edilip yeni bir Github linki açıldı unity ile eşleştirildi. Danışmana gönderilmek üzere hazır. Süreçteki tüm aşamalar Trello'ya kaydedilmiiştir.
 ## Daily Scrum:
 Daily scrum toplantılarımız Discord üzerinden gerçekleştirilmiştir.
-### Puan tamamlama mantığı: 
-Karakterimiz engellere takılmadan devam ettikçe puan kaybetmeyecek. Engele takıldığında puan kaybeder ve yeniden başlar.
+### Sprint board update: Sprint board screenshotı:
+![Ekran görüntüsü 2022-06-06 203943](https://user-images.githubusercontent.com/104462229/172215366-38a9e96d-1863-4556-9084-8a3dd3615262.jpg)
+
 ### Tasarımı tamamlanmış karakter tasarımları:
 ![idle](https://user-images.githubusercontent.com/104462229/172200806-6a9e8a2b-1b47-41ce-86e2-e8bf11e78bb2.png)
 ![yurume](https://user-images.githubusercontent.com/104462229/172200801-93ef9c8d-9653-40d6-b883-b38a86a12faa.png)
