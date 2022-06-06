@@ -1,10 +1,14 @@
 # takim_12
 ## Ürün ile ilgili bilgiler
 ### Takım
-İncinaz İnci: Product Owner
+İncinaz İnci: Product Owner/ Scrum Master
+
 Rasim Seçkim: Team Member/Artist
+
 Sinan Kerim Canan: Team Member/Artist
+
 Melis İliderci: Team Member/Developer
+
 Kaan Avcı: Scrum Master
 ## Oyun Açıklaması
 Charlie'nin Çikolata Fabrikasında bir gezinitye çıkan Veruca Salt çeşitli engellerden atlayarak oyuna devam etmeye çalışıyor.
@@ -25,6 +29,8 @@ Charlie'nin Çikolata Fabrikasında bir gezinitye çıkan Veruca Salt çeşitli 
 Scrum Master'ımız yoğum olduğu için o hariç toplanıldı. Github linkimiz belirtilmediği fark edilip yeni bir Github linki açıldı unity ile eşleştirildi. Danışmana gönderilmek üzere hazır. Süreçteki tüm aşamalar Trello'ya kaydedilmiiştir.
 ## Daily Scrum:
 Daily scrum toplantılarımız Discord üzerinden gerçekleştirilmiştir.
+### Puan tamamlama mantığı: 
+Karakterimiz engellere takılmadan devam ettikçe puan kaybetmeyecek. Engele takıldığında puan kaybeder ve yeniden başlar.
 ### Tasarımı tamamlanmış karakter tasarımları:
 ![idle](https://user-images.githubusercontent.com/104462229/172200806-6a9e8a2b-1b47-41ce-86e2-e8bf11e78bb2.png)
 ![yurume](https://user-images.githubusercontent.com/104462229/172200801-93ef9c8d-9653-40d6-b883-b38a86a12faa.png)
